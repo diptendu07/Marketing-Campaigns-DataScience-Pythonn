@@ -175,8 +175,14 @@ marketing_campaign_project/
 # Screenshots of Jupyter Notebook
 
 ![Select cell and run for Results](images/jupyter_run_cell.png)
+
 ![EDA Cleaning Result](images/01_eda_cleaning.png)
+
 ![Correlation Heatmap Result](images/03_visualizations_correlation_heatmap.png)
+
 ![Income Distribution Result](images/03_visualizations_income.png)
+
 ![Hypothesis Testing Result](images/04_hypothesis_testing.png)
+
+---
 
