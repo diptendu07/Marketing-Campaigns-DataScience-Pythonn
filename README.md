@@ -166,6 +166,36 @@ marketing_campaign_project/
 ### Marital Status Barplot
 ![Marital Status Barplot](images/marital_status_barplot.png)
 
+### Age vs Response Boxplot
+![Age vs Response Boxplot](images/age_vs_response_boxplot.png)
+
+### Campain Acceptance by Country
+![Campain Acceptance by Country](images/campaign_acceptance_by_country.png)
+
+### Children vs Spending Boxplot
+![Children vs Spending Boxplot](images/children_vs_spending_boxplot.png)
+
+### Education vs Complaints Barplot
+![Education vs Complaints Barplot](images/education_vs_complaints_barplot.png)
+
+### Education Barplot
+![Education Barplot](images/education_barplot.png)
+
+### Product Spending Barplot
+![Product Spending Barplot](images/product_spending_barplot.png)
+
+### Spending US vs Rest
+![Spending US vs Rest](images/spending_us_vs_rest.png)
+
+### Store Purchases by Age
+![Store Purchases by Age](images/store_purchases_by_age_group.png)
+
+### Web Purchases by Children
+![Web Purchases by Children](images/web_purchases_by_children.png)
+
+### Web vs Store Scatter
+![Web vs Store Scatter](images/web_vs_store_scatter.png)
+
 ### Result after running:
 ``` python marketing_analysis.py ```
 
