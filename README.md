@@ -226,5 +226,5 @@ marketing_campaign_project/
 | Encoding                          | ✅ Done            |
 | Correlation Heatmap               | ✅ Done            |
 | Hypothesis Testing                | ✅ Done            |
-| Campaign & Product Visualizations | 🟡 Partially Done |
+| Campaign & Product Visualizations | ✅ Done            |
 ```
