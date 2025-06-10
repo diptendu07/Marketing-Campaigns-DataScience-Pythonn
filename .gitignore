@@ -1,0 +1,30 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore output files
+output/plots/
+output/reports/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Ignore data backup or cache files
+*.bak
+*.swp
+
+# Optional: Ignore data files (if you don’t want to push large/raw datasets)
+# Uncomment the below line if needed
+# data/marketing_data.csv
