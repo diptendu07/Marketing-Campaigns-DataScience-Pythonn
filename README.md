@@ -212,7 +212,7 @@ marketing_campaign_project/
 
 ![Income Distribution Result](images/03_visualizations_income.png)
 
-![Hypothesis Testing Result](images/04_hypothesis_testing.png)
+![Hypothesis Test Result](images/04_hypothesis_testt_result.png)
 
 ---
 
