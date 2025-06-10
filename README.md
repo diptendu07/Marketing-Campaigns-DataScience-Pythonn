@@ -85,16 +85,6 @@ Reports in output/reports/
 ```
 ---
 
-## ✅ Project Phases
-### EDA: Clean and explore the dataset.
-
-### Feature Engineering: Derive new meaningful variables.
-
-### Visualization: Generate key plots.
-
-### Hypothesis Testing: Statistically verify customer behavior assumptions.
----
-
 ## 📊 Output Files
 ### Plots:
 ```
