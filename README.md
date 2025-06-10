@@ -93,6 +93,15 @@ age_histogram.png
 correlation_heatmap.png
 marital_status_barplot.png
 education_barplot.png
+product_spending_barplot.png
+age_vs_response_boxplot.png
+campaign_acceptance_by_country.png
+children_vs_spending_boxplot.png
+education_vs_complaints_barplot.png
+store_purchases_by_age_group.png
+web_purchases_by_children.png
+web_vs_store_scatter.png
+spending_us_vs_rest.png
 ```
 ### Reports:
 ```
@@ -135,7 +144,16 @@ marketing_campaign_project/
 │   │   ├── age_histogram.png
 │   │   ├── correlation_heatmap.png
 │   │   ├── marital_status_barplot.png
-│   │   └── education_barplot.png
+│   │   ├── education_barplot.png
+│   │   ├── product_spending_barplot.png
+│   │   ├── age_vs_response_boxplot.png
+│   │   ├── campaign_acceptance_by_country.png         
+│   │   ├── children_vs_spending_boxplot.png
+│   │   ├── education_vs_complaints_barplot.png
+│   │   ├── store_purchases_by_age_group.png
+│   │   ├── web_purchases_by_children.png
+│   │   ├── web_vs_store_scatter.png
+│   │   └── spending_us_vs_rest.png                    
 │   └── reports/
 │       ├── summary_statistics.csv
 │       └── hypothesis_results.txt
