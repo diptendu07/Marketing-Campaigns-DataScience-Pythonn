@@ -8,6 +8,10 @@ venv/
 output/plots/*
 !output/plots/.gitkeep
 
+# Ignore auto-generated data files (but keep marketing_data.csv)
+data/cleaned_data.csv
+data/engineered_data.csv
+
 # Ignore everything in output/reports/ except .gitkeep
 output/reports/*
 !output/reports/.gitkeep
