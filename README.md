@@ -186,3 +186,15 @@ marketing_campaign_project/
 
 ---
 
+```
+| Requirement                       | Status            |
+| --------------------------------- | ----------------- |
+| Data Import & Inspection          | ✅ Done            |
+| Missing Value Imputation          | ✅ Done            |
+| Feature Engineering               | ✅ Done            |
+| EDA Plots + Outlier Treatment     | ✅ Done            |
+| Encoding                          | ✅ Done            |
+| Correlation Heatmap               | ✅ Done            |
+| Hypothesis Testing                | ✅ Done            |
+| Campaign & Product Visualizations | 🟡 Partially Done |
+```
