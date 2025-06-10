@@ -34,21 +34,21 @@ marketing_campaign_project/
 
 # How to Run
 
-## Install dependencies:
-``` pip install -r requirements.txt ```
-
 ## Confirm Python version Installed
 ``` py -0 ```
 
 ## Create Virtual Environment with Python suitable version (3.10.0 in my case)
 ``` py -3.10 -m venv venv ```
 
-## Activate (venv) Enviornment
-### 1. Temporarily allow script execution in powershell terminal in VS Code
+## (Optional) Activate (venv) Enviornment
+### 1. Temporarily allow script execution in powershell terminal in VS Code 
 ``` Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process ```
 
 ### 2. Activate (venv) Enviornment
 ``` .\venv\Scripts\Activate ```
+
+## Install dependencies:
+``` pip install -r requirements.txt ```
 
 ## Use Jupyter to open the notebooks:
 ``` jupyter notebook ```
@@ -70,7 +70,7 @@ Reports in output/reports/
 ## Alternate Option (VS Code)
 
 ### 1. Open /notebooks directory and select the 01_eda_cleaning.ipynb file. 
-### 2. In select kernel section chose the python 3.10.0 venv enviorment from dropdown options.
+### 2. In select kernel section chose the (venv) Python 3.10.0 enviorment from dropdown options.
 ### 3. Run the selected cell to see output.
 ### 4. Do the same for 
 ```
